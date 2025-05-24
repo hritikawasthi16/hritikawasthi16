@@ -6,7 +6,7 @@
 --
 
 <p align="center">
-  <img src="hritik.jpg" alt="Custom Banner" width="40%" />
+  <img src="hritik.jpg" alt="Custom Banner" width="32%" />
 </p>
 
 ---
